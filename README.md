@@ -72,4 +72,4 @@ Date:   Tue Jan 18 23:22:53 2022 -0600
 
     Create README.md
 
-![](C:\Users\procesos.electorales\Desktop\descarga.png)
+![imagen](https://github.com/Juliodfconde/test-git/network)
